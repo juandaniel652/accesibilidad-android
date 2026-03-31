@@ -1,0 +1,11 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio/VS Code
+.idea/
+*.iml
+
+# APKs
+*.apk
